@@ -1,0 +1,167 @@
+.all {
+    margin: 25px;
+}
+
+.heading {
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    color: #0168b3;
+    display: flex;
+}
+
+.logo {
+    flex: 75%;
+}
+
+.navbar {
+    background-color: #0064b1;
+    color: white;
+    display: flex;
+    padding: 0px;
+    border: 2px solid black;
+    margin-bottom: 5px;
+    padding-right: 5px;
+}
+
+.enroll {
+    color: #f58025;
+    flex: 0.9;
+    padding: 10px;
+}
+
+.first_div {
+    display: flex;
+
+}
+
+.second_div {
+    display: flex;
+}
+
+.right {
+    flex: 1;
+    padding: 10px;
+    color: white;
+    background-color: #0168b3;
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.left {
+    flex: 2;
+    padding: 10px;
+    border: 2px solid black;
+    margin-top: 20px;
+    color: white;
+    background-color: #0168b3;
+
+}
+
+.sright {
+    color: white;
+    background-color: #0168b3;
+    width: 40%;
+    padding: 10px;
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-left: 10px;
+    height: 230px;
+}
+
+.sleft {
+
+    width: 60%;
+
+    margin-top: 20px;
+    height: 150px;
+}
+
+.seat {
+    padding-left: 5px;
+
+}
+
+.student1 {
+    display: flex;
+    border: 2px solid black;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.student2 {
+    display: flex;
+    border: 2px solid black;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+#b1 {
+    font-weight: bold;
+    margin-right: 20px;
+    padding: 10px;
+}
+
+#b2 {
+    font-weight: bold;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.name {
+    font-size: 14px;
+    font-weight: normal;
+    margin-top: 2px;
+    margin-left: 5px;
+}
+
+.book {
+    display: flex;
+
+}
+
+.b {
+    width: 92%;
+    margin-top: 0px;
+    margin-right: 20px;
+
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    border-radius: 50%;
+    font-size: 35px;
+    color: #f58025;
+    text-align: center;
+    background: black;
+    margin-bottom: 20px;
+}
+
+.rinfo {
+    margin-top: 8px;
+    border: 1px solid black;
+    padding-left: 5px;
+}
+
+.pinfo {
+    color: white;
+    background-color: #0168b3;
+    display: flex;
+    height: 150px;
+    border: 2px solid black;
+
+}
+
+.pi {
+    width: 100%;
+    font-size: 12px;
+    margin-bottom: 40px;
+    padding: 10px;
+}
+
+.btn {
+    margin-top: 10px;
+}
