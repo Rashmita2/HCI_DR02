@@ -1,4 +1,4 @@
-# HumanComputerInteraction
+# Human Computer Interaction
 
 This repository shows the diffrent interaction and UI/UX designs.  
 Interaction1.png and Interaction2.png shows different color interaction.   
